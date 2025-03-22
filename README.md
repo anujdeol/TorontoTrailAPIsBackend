@@ -1,8 +1,17 @@
 TorontoTrailAPIsBackend
 
-## 📊 Database Schema
 
-### 🗺️ Trail Table
+##  Run on Your Local Machine
+### 1 Clone the Repository
+
+>Change the connection string
+>Run Migrations and Update Database 
+>Data Seeders will insert the initial fake data into datebase for testing purpose
+
+##  Database Schema
+
+
+###  Trail Table
 
 | Column Name       | Data Type | Nullable | Description               |
 | ----------------- | --------- | -------- | ------------------------- |
