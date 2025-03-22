@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "oaSW219d4fJrjpYtwA6MswvqOgJmEIdpW/o0b167DwE=",
+  "Source": "TorontoTrails.APIs",
+  "BasePath": "_content/TorontoTrails.APIs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

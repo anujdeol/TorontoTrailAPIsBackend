@@ -1,0 +1,6 @@
+@TorontoTrails.APIs_HostAddress = http://localhost:5105
+
+GET {{TorontoTrails.APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

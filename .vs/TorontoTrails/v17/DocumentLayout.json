@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F429DEB-7000-4E5C-9128-5C3E5B3B3917}|TorontoTrails.APIs\\TorontoTrails.APIs.csproj|\\\\mac\\home\\downloads\\torontotrails\\torontotrails.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F429DEB-7000-4E5C-9128-5C3E5B3B3917}|TorontoTrails.APIs\\TorontoTrails.APIs.csproj|\\\\mac\\home\\downloads\\torontotrails\\torontotrails.apis\\controllers\\trailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F429DEB-7000-4E5C-9128-5C3E5B3B3917}|TorontoTrails.APIs\\TorontoTrails.APIs.csproj|\\\\mac\\home\\downloads\\torontotrails\\torontotrails.apis\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F429DEB-7000-4E5C-9128-5C3E5B3B3917}|TorontoTrails.APIs\\TorontoTrails.APIs.csproj|\\\\mac\\home\\downloads\\torontotrails\\torontotrails.apis\\models\\domain\\trails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F429DEB-7000-4E5C-9128-5C3E5B3B3917}|TorontoTrails.APIs\\TorontoTrails.APIs.csproj|\\\\mac\\home\\downloads\\torontotrails\\torontotrails.apis\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F429DEB-7000-4E5C-9128-5C3E5B3B3917}|TorontoTrails.APIs\\TorontoTrails.APIs.csproj|\\\\mac\\home\\downloads\\torontotrails\\torontotrails.apis\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F429DEB-7000-4E5C-9128-5C3E5B3B3917}|TorontoTrails.APIs\\TorontoTrails.APIs.csproj|\\\\mac\\home\\downloads\\torontotrails\\torontotrails.apis\\migrations\\20250321161333_typesettrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F429DEB-7000-4E5C-9128-5C3E5B3B3917}|TorontoTrails.APIs\\TorontoTrails.APIs.csproj|\\\\mac\\home\\downloads\\torontotrails\\torontotrails.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F429DEB-7000-4E5C-9128-5C3E5B3B3917}|TorontoTrails.APIs\\TorontoTrails.APIs.csproj|\\\\mac\\home\\downloads\\torontotrails\\torontotrails.apis\\migrations\\20250321062120_initalmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F429DEB-7000-4E5C-9128-5C3E5B3B3917}|TorontoTrails.APIs\\TorontoTrails.APIs.csproj|\\\\mac\\home\\downloads\\torontotrails\\torontotrails.apis\\migrations\\20250321061855_seedinitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F429DEB-7000-4E5C-9128-5C3E5B3B3917}|TorontoTrails.APIs\\TorontoTrails.APIs.csproj|\\\\mac\\home\\downloads\\torontotrails\\torontotrails.apis\\data\\torontotrailsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F429DEB-7000-4E5C-9128-5C3E5B3B3917}|TorontoTrails.APIs\\TorontoTrails.APIs.csproj|\\\\mac\\home\\downloads\\torontotrails\\torontotrails.apis\\torontotrails.apis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F429DEB-7000-4E5C-9128-5C3E5B3B3917}|TorontoTrails.APIs\\TorontoTrails.APIs.csproj|\\\\mac\\home\\downloads\\torontotrails\\torontotrails.apis\\migrations\\20250321203540_seedingmore data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\appsettings.json",
+              "RelativeDocumentMoniker": "TorontoTrails.APIs\\appsettings.json",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\appsettings.json",
+              "RelativeToolTip": "TorontoTrails.APIs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T22:42:59.021Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Models\\Domain\\Difficulty.cs",
+              "RelativeDocumentMoniker": "TorontoTrails.APIs\\Models\\Domain\\Difficulty.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Models\\Domain\\Difficulty.cs",
+              "RelativeToolTip": "TorontoTrails.APIs\\Models\\Domain\\Difficulty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:25:00.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrailController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Controllers\\TrailController.cs",
+              "RelativeDocumentMoniker": "TorontoTrails.APIs\\Controllers\\TrailController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Controllers\\TrailController.cs",
+              "RelativeToolTip": "TorontoTrails.APIs\\Controllers\\TrailController.cs",
+              "ViewState": "AgIAADwAAAAAQDMzMzMAwKIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:49:28.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Region.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Models\\Domain\\Region.cs",
+              "RelativeDocumentMoniker": "TorontoTrails.APIs\\Models\\Domain\\Region.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Models\\Domain\\Region.cs",
+              "RelativeToolTip": "TorontoTrails.APIs\\Models\\Domain\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:25:39.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "TorontoTrails.APIs\\Data\\DbInitializer.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "TorontoTrails.APIs\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:07:36.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Program.cs",
+              "RelativeDocumentMoniker": "TorontoTrails.APIs\\Program.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Program.cs",
+              "RelativeToolTip": "TorontoTrails.APIs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:06:04.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250321203540_seedingmore data.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Migrations\\20250321203540_seedingmore data.cs",
+              "RelativeDocumentMoniker": "TorontoTrails.APIs\\Migrations\\20250321203540_seedingmore data.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Migrations\\20250321203540_seedingmore data.cs",
+              "RelativeToolTip": "TorontoTrails.APIs\\Migrations\\20250321203540_seedingmore data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:35:40.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trails.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Models\\Domain\\Trails.cs",
+              "RelativeDocumentMoniker": "TorontoTrails.APIs\\Models\\Domain\\Trails.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Models\\Domain\\Trails.cs",
+              "RelativeToolTip": "TorontoTrails.APIs\\Models\\Domain\\Trails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:25:23.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250321161333_typesetTrail.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Migrations\\20250321161333_typesetTrail.cs",
+              "RelativeDocumentMoniker": "TorontoTrails.APIs\\Migrations\\20250321161333_typesetTrail.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Migrations\\20250321161333_typesetTrail.cs",
+              "RelativeToolTip": "TorontoTrails.APIs\\Migrations\\20250321161333_typesetTrail.cs",
+              "ViewState": "AgIAAAIAAACAAQAAAAABwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:13:34.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TorontoTrails.APIs.csproj",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\TorontoTrails.APIs.csproj",
+              "RelativeDocumentMoniker": "TorontoTrails.APIs\\TorontoTrails.APIs.csproj",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\TorontoTrails.APIs.csproj",
+              "RelativeToolTip": "TorontoTrails.APIs\\TorontoTrails.APIs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T19:51:55.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TorontoTrailsDbContext.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Data\\TorontoTrailsDbContext.cs",
+              "RelativeDocumentMoniker": "TorontoTrails.APIs\\Data\\TorontoTrailsDbContext.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Data\\TorontoTrailsDbContext.cs",
+              "RelativeToolTip": "TorontoTrails.APIs\\Data\\TorontoTrailsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T22:34:32.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250321061855_SeedInitialData.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Migrations\\20250321061855_SeedInitialData.cs",
+              "RelativeDocumentMoniker": "TorontoTrails.APIs\\Migrations\\20250321061855_SeedInitialData.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Migrations\\20250321061855_SeedInitialData.cs",
+              "RelativeToolTip": "TorontoTrails.APIs\\Migrations\\20250321061855_SeedInitialData.cs",
+              "ViewState": "AgIAACUAAAAAZmZmZuYbwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:19:05.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250321062120_initalmig.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Migrations\\20250321062120_initalmig.cs",
+              "RelativeDocumentMoniker": "TorontoTrails.APIs\\Migrations\\20250321062120_initalmig.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\TorontoTrails\\TorontoTrails.APIs\\Migrations\\20250321062120_initalmig.cs",
+              "RelativeToolTip": "TorontoTrails.APIs\\Migrations\\20250321062120_initalmig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:21:20.792Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
