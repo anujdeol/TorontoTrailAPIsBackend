@@ -4,9 +4,9 @@ TorontoTrailAPIsBackend
 ##  Run on Your Local Machine
 ### 1 Clone the Repository
 
->Change the connection string
->Run Migrations and Update Database 
->Data Seeders will insert the initial fake data into datebase for testing purpose
+>1st Step: Change the connection string
+>2st Step: Run Migrations and Update Database 
+>3st Step: Data Seeders will insert the initial fake data into datebase for testing purpose
 
 ##  Database Schema
 
